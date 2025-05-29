@@ -1,0 +1,99 @@
+{
+  "booking": {
+    "agreementRequired": "يرجى الموافقة على الشروط والأحكام",
+    "submitError": "حدث خطأ أثناء تقديم الحجز. يرجى المحاولة مرة أخرى.",
+    "namePlaceholder": "أدخل اسمك الكامل",
+    "phonePlaceholder": "أدخل رقم هاتفك",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "messagePlaceholder": "أدخل رسالتك أو متطلباتك",
+    "fileTypes": "أنواع الملفات المقبولة: PDF, DOC, DOCX, TXT",
+    "agreement": "أوافق على الشروط والأحكام وسياسة الخصوصية",
+    "success": "تم تقديم حجزك بنجاح!",
+    "submit": "تقديم الحجز",
+    "required": "*"
+  },
+  "form": {
+    "name": "الاسم",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "message": "الرسالة",
+    "file": "تحميل ملف (اختياري)"
+  },
+  "common": {
+    "submitting": "جاري التقديم...",
+    "viewDetails": "عرض التفاصيل",
+    "cancel": "إلغاء",
+    "tryAgain": "حاول مرة أخرى",
+    "noFactoriesFound": "لم يتم العثور على امتيازات تطابق معايير البحث"
+  },
+  "pagination": {
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "الصفحة",
+    "of": "من"
+  },
+  "franchise": {
+    "title": "دليل الامتيازات التجارية",
+    "description": "ابحث واستكشف فرص الامتياز التجاري",
+    "requestFranchise": "طلب امتياز",
+    "contact": {
+      "website": "زيارة الموقع",
+      "email": "التواصل عبر البريد الإلكتروني",
+      "phone": "الاتصال بالهاتف",
+      "location": "عرض الموقع"
+    },
+    "status": {
+      "open": "مفتوح الآن",
+      "closed": "مغلق"
+    },
+    "filters": {
+      "search": "البحث عن امتيازات...",
+      "category": "الفئة",
+      "country": "الدولة",
+      "city": "المدينة",
+      "specialty": "التخصص",
+      "quickFilters": "تصفية سريع",
+      "apply": "تطبيق التصفية",
+      "clear": "مسح التصفية"
+    },
+    "booking": {
+      "title": "طلب معلومات الامتياز",
+      "success": "تم إرسال استفسارك عن الامتياز بنجاح!"
+    },
+    "tabs": {
+      "mainImage": "الصورة الرئيسية",
+      "gallery": "معرض الصور",
+      "products": "المنتجات",
+      "about": "عن الامتياز",
+      "services": "الخدمات",
+      "booking": "طلب الامتياز"
+    },
+    "details": {
+      "established": "تأسست في",
+      "employees": "الموظفين",
+      "capacity": "الطاقة الإنتاجية",
+      "certifications": "الشهادات"
+    },
+    "rating": {
+      "title": "قيم هذا الامتياز",
+      "rateNow": "قيم الآن",
+      "submit": "إرسال التقييم"
+    },
+    "workdays": {
+      "title": "ساعات العمل",
+      "monday": "الإثنين",
+      "tuesday": "الثلاثاء",
+      "wednesday": "الأربعاء",
+      "thursday": "الخميس",
+      "friday": "الجمعة",
+      "saturday": "السبت",
+      "sunday": "الأحد"
+    },
+    "share": {
+      "title": "مشاركة هذا الامتياز"
+    }
+  },
+  "nav": {
+    "franchiseFactories": "مصانع الامتياز"
+  }
+} 

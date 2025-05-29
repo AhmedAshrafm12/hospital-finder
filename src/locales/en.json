@@ -1,0 +1,99 @@
+{
+  "booking": {
+    "agreementRequired": "Please agree to the terms and conditions",
+    "submitError": "An error occurred while submitting your booking. Please try again.",
+    "namePlaceholder": "Enter your full name",
+    "phonePlaceholder": "Enter your phone number",
+    "emailPlaceholder": "Enter your email address",
+    "messagePlaceholder": "Enter your message or requirements",
+    "fileTypes": "Accepted file types: PDF, DOC, DOCX, TXT",
+    "agreement": "I agree to the terms and conditions and privacy policy",
+    "success": "Your booking has been submitted successfully!",
+    "submit": "Submit Booking",
+    "required": "*"
+  },
+  "form": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message",
+    "file": "Upload File (Optional)"
+  },
+  "common": {
+    "submitting": "Submitting...",
+    "viewDetails": "View Details",
+    "cancel": "Cancel",
+    "tryAgain": "Try Again",
+    "noFactoriesFound": "No franchises found matching your criteria"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "franchise": {
+    "title": "Franchise Directory",
+    "description": "Find and explore franchise opportunities",
+    "requestFranchise": "Request Franchise",
+    "contact": {
+      "website": "Visit Website",
+      "email": "Contact via Email",
+      "phone": "Contact by Phone",
+      "location": "View Location"
+    },
+    "status": {
+      "open": "Open Now",
+      "closed": "Closed"
+    },
+    "filters": {
+      "search": "Search franchises...",
+      "category": "Category",
+      "country": "Country",
+      "city": "City",
+      "specialty": "Specialty",
+      "quickFilters": "Quick Filters",
+      "apply": "Apply Filters",
+      "clear": "Clear Filters"
+    },
+    "booking": {
+      "title": "Request Franchise Information",
+      "success": "Your franchise inquiry has been submitted successfully!"
+    },
+    "tabs": {
+      "mainImage": "Main Image",
+      "gallery": "Gallery",
+      "products": "Products",
+      "about": "About",
+      "services": "Services",
+      "booking": "Request Franchise"
+    },
+    "details": {
+      "established": "Established",
+      "employees": "Employees",
+      "capacity": "Production Capacity",
+      "certifications": "Certifications"
+    },
+    "rating": {
+      "title": "Rate this Franchise",
+      "rateNow": "Rate Now",
+      "submit": "Submit Rating"
+    },
+    "workdays": {
+      "title": "Working Hours",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    },
+    "share": {
+      "title": "Share this Franchise"
+    }
+  },
+  "nav": {
+    "franchiseFactories": "Franchise Factories"
+  }
+} 
